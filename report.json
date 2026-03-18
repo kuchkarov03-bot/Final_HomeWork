@@ -1,0 +1,49 @@
+{
+    "virustotal_stats": {
+        "malicious": 55,
+        "suspicious": 0,
+        "harmless": 0,
+        "undetected": 4
+    },
+    "vulnerabilities": [
+        {
+            "id": null,
+            "title": null,
+            "cvss": 0
+        },
+        {
+            "id": null,
+            "title": null,
+            "cvss": 0
+        },
+        {
+            "id": null,
+            "title": null,
+            "cvss": 0
+        },
+        {
+            "id": null,
+            "title": null,
+            "cvss": 0
+        },
+        {
+            "id": null,
+            "title": null,
+            "cvss": 0
+        }
+    ],
+    "suspicious_ips": [
+        {
+            "ip": "192.168.1.10",
+            "requests": 250
+        },
+        {
+            "ip": "10.0.0.3",
+            "requests": 320
+        },
+        {
+            "ip": "10.0.0.9",
+            "requests": 140
+        }
+    ]
+}
